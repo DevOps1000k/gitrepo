@@ -1,0 +1,2 @@
+new file:   Gitsample/Sampletestfile1.txt
+        modified:   sample test.txt
